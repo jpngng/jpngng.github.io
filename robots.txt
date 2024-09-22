@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jpngng.github.io/sitemap.html.gz
+Sitemap: https://jpngng.github.io/app/sitemap.html.gz
+Sitemap: https://jpngng.github.io/assets/sitemap.html.gz
+Sitemap: https://jpngng.github.io/css/sitemap.html.gz
+Sitemap: https://jpngng.github.io/data/sitemap.html.gz
+Sitemap: https://jpngng.github.io/includes/sitemap.html.gz
+Sitemap: https://jpngng.github.io/item/sitemap.html.gz
+Sitemap: https://jpngng.github.io/src/sitemap.html.gz
